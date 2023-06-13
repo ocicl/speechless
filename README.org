@@ -1,0 +1,10 @@
+* speechless
+
+A dialogue system language implementation
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/shirakumo/speechless.git   |
+| commit  | 50e9b03  |
+| systems | speechless |
+|---------+-------------------------------------------|
+
