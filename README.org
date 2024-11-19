@@ -4,6 +4,6 @@ A dialogue system language implementation
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/shirakumo/speechless.git |
-| commit  | 4d09a4a                                         |
+| commit  | 85e545a                                         |
 | systems | speechless                                      |
 |---------+-------------------------------------------------|
