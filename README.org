@@ -3,7 +3,7 @@
 A dialogue system language implementation
 
 |---------+-------------------------------------------------|
-| source  | git:https://github.com/shirakumo/speechless.git |
+| source  | git:https://codeberg.org/shirakumo/speechless.git |
 | commit  | 7ff289a                                         |
 | systems | speechless                                      |
 |---------+-------------------------------------------------|
